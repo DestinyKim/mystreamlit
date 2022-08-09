@@ -1,6 +1,10 @@
-streamlit
 pandas
-base64
-matplotlib
-seaborn
 numpy
+streamlit
+finance-datareader
+plotly
+seaborn
+matplotlib
+koreanize_matplotlib
+scikit-learn
+yfinanc
